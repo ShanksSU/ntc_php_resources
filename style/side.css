@@ -5,7 +5,7 @@
 }
 body {
 	/* 溢出隐藏 */
-	overflow: hidden;
+	/* overflow: hidden;*/
 }
 .navbar {
 	/* 相对定位 */
