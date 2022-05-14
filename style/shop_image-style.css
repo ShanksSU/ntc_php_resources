@@ -87,15 +87,6 @@ https://templatemo.com/tm-556-catalog-z
         }
     }
 
-	.loaded #loader-wrapper {
-	    visibility: hidden;
-	    -webkit-transform: translateY(-100%);
-	    -ms-transform: translateY(-100%);
-	    transform: translateY(-100%);
-	    -webkit-transition: all 0.3s 1s ease-out;
-	    transition: all 0.3s 1s ease-out;
-	}
-
     #loader-wrapper .loader-section {
         position: fixed;
         top: 0;
